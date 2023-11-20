@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-20T02:02:02.494Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="4t8gTSVXMAV_tsHwS5cJ" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-20T02:06:07.505Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="f1WRIR4n6Vp-9AOPmfT1" version="22.1.3" type="github">
   <diagram name="Página Principal" id="_innlUNYkD_pxCBl8Joa">
-    <mxGraphModel dx="513" dy="63" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2087" dy="936" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -41,6 +41,12 @@
         </mxCell>
         <mxCell id="86xsszOPzQ_2zuVoXFQx-33" value="&lt;font style=&quot;font-size: 40px&quot;&gt;Fluid jumbotron&lt;/font&gt;&lt;br&gt;&lt;br&gt;This is a modified jumbotron that occupies the entire horizontal space of its parent." style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;html=1;whiteSpace=wrap;fillColor=#E9ECEF;fontColor=#474E4F;align=left;spacing=15;fontSize=14;verticalAlign=top;spacingTop=40;" vertex="1" parent="1">
           <mxGeometry x="-30" y="117" width="1140" height="563" as="geometry" />
+        </mxCell>
+        <mxCell id="86xsszOPzQ_2zuVoXFQx-36" value="" style="shape=line;strokeColor=default;resizeWidth=1;strokeWidth=1;gradientColor=none;gradientDirection=north;labelPadding=0;direction=east;fixDash=0;" vertex="1" parent="1">
+          <mxGeometry x="-280.5" y="58" width="1" height="4" as="geometry" />
+        </mxCell>
+        <mxCell id="86xsszOPzQ_2zuVoXFQx-37" value="" style="shape=line;strokeColor=default;resizeWidth=1;strokeWidth=1;gradientColor=none;gradientDirection=north;labelPadding=0;direction=east;fixDash=0;" vertex="1" parent="1">
+          <mxGeometry x="1120.5" y="58" width="1" height="4" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
