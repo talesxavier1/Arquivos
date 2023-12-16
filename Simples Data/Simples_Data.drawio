@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-16T18:04:39.913Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="4r5sCQeOHZVa5F9_ph1u" version="22.1.11" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-12-16T18:08:51.469Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="87I4R_LT1UnyF2XQ5JfH" version="22.1.11" type="github" pages="4">
   <diagram name="Página Principal" id="_innlUNYkD_pxCBl8Joa">
     <mxGraphModel dx="2474" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -978,7 +978,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="0dmyDxiw3CQqHXLfFbll" name="Usuários">
-    <mxGraphModel dx="3267" dy="922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3790" dy="1120" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1360,37 +1360,49 @@
           <mxGeometry x="-51.5" y="870" width="20" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Tj9MBj_tu6pOK4kGT5YQ-2" value="c7adcf11-276b-49f8-9049-3e864c75c046" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="-61.5" y="900" width="540" height="30" as="geometry" />
+          <mxGeometry x="-61.5" y="900" width="541.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Tj9MBj_tu6pOK4kGT5YQ-3" value="Nome do Projeto" style="fillColor=none;strokeColor=none;align=left;fontSize=14;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="488.5" y="870" width="120" height="30" as="geometry" />
+          <mxGeometry x="-61.5" y="940" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Tj9MBj_tu6pOK4kGT5YQ-4" value="Projeto2" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="488.5" y="900" width="570" height="30" as="geometry" />
+          <mxGeometry x="-61.5" y="970" width="541.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Tj9MBj_tu6pOK4kGT5YQ-5" value="Banco DESENV" style="fillColor=none;strokeColor=none;align=left;fontSize=14;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="-61.5" y="940" width="110" height="30" as="geometry" />
+        <mxCell id="Tj9MBj_tu6pOK4kGT5YQ-5" value="Nome" style="fillColor=none;strokeColor=none;align=left;fontSize=14;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="-61.5" y="1010" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Tj9MBj_tu6pOK4kGT5YQ-6" value="Projeto2_DB_DEV" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="-61.5" y="970" width="280" height="30" as="geometry" />
+        <mxCell id="Tj9MBj_tu6pOK4kGT5YQ-6" value="Nome 1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="-61.5" y="1040" width="280" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Tj9MBj_tu6pOK4kGT5YQ-7" value="Banco HOMOL" style="fillColor=none;strokeColor=none;align=left;fontSize=14;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="232.75" y="940" width="105.75" height="30" as="geometry" />
+        <mxCell id="Tj9MBj_tu6pOK4kGT5YQ-7" value="Email" style="fillColor=none;strokeColor=none;align=left;fontSize=14;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="232.75" y="1010" width="105.75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Tj9MBj_tu6pOK4kGT5YQ-8" value="Projeto22_DB_HOM" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="232.75" y="970" width="245.75" height="30" as="geometry" />
+        <mxCell id="Tj9MBj_tu6pOK4kGT5YQ-8" value="nome1@email.com" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="232.75" y="1040" width="245.75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Tj9MBj_tu6pOK4kGT5YQ-9" value="Banco POD" style="fillColor=none;strokeColor=none;align=left;fontSize=14;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="488.5" y="940" width="85" height="30" as="geometry" />
+        <mxCell id="Tj9MBj_tu6pOK4kGT5YQ-9" value="Senha" style="fillColor=none;strokeColor=none;align=left;fontSize=14;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="488.5" y="1010" width="85" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Tj9MBj_tu6pOK4kGT5YQ-10" value="Projeto01_DB_PRO" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="488.5" y="970" width="270" height="30" as="geometry" />
+        <mxCell id="Tj9MBj_tu6pOK4kGT5YQ-10" value="*********" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="488.5" y="1040" width="270" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Tj9MBj_tu6pOK4kGT5YQ-11" value="ATIVO" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="768.5" y="970" width="290" height="30" as="geometry" />
+          <mxGeometry x="768.5" y="1040" width="290" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Tj9MBj_tu6pOK4kGT5YQ-12" value="Status" style="fillColor=none;strokeColor=none;align=left;fontSize=14;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="768.5" y="940" width="120" height="30" as="geometry" />
+          <mxGeometry x="768.5" y="1010" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1UUhq37VG7Kg4xczPiDY-3" value="ID Projeto" style="fillColor=none;strokeColor=none;align=left;fontSize=14;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="940" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1UUhq37VG7Kg4xczPiDY-4" value="c7adcf11-276b-49f8-9049-3e864c75c046" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="970" width="561.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZvWqD9dOkJsdVbPEI4q-1" value="Salvar" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#33A64C;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="965.5" y="1370" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_ZvWqD9dOkJsdVbPEI4q-2" value="Voltar" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="870.5" y="1370" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
