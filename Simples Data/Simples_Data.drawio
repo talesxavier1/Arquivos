@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-01T22:57:07.386Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="xLrCpeoI-nJJXu9_iBTd" version="22.1.16" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-01-01T23:05:50.843Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ZlFSu_r9SZz108-CGviC" version="22.1.16" type="github" pages="4">
   <diagram name="Página Principal" id="_innlUNYkD_pxCBl8Joa">
     <mxGraphModel dx="2474" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1665,6 +1665,24 @@
         </mxCell>
         <mxCell id="LXiYEPwb5xeW1DS-eFYo-133" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#F0F1F2;strokeColor=#D2D3D4;fontColor=#212529;resizeWidth=1;fontSize=18;align=left;spacing=20;container=1;collapsible=0;" vertex="1" parent="LXiYEPwb5xeW1DS-eFYo-20">
           <mxGeometry x="8" y="6.5" width="782" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LXiYEPwb5xeW1DS-eFYo-143" value="Versão" style="fillColor=none;strokeColor=none;align=left;fontSize=14;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="LXiYEPwb5xeW1DS-eFYo-133">
+          <mxGeometry x="12" y="10" width="108" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LXiYEPwb5xeW1DS-eFYo-144" value="V1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="LXiYEPwb5xeW1DS-eFYo-133">
+          <mxGeometry x="12" y="40" width="108" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LXiYEPwb5xeW1DS-eFYo-145" value="ID" style="fillColor=none;strokeColor=none;align=left;fontSize=14;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="LXiYEPwb5xeW1DS-eFYo-133">
+          <mxGeometry x="132" y="10" width="108" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LXiYEPwb5xeW1DS-eFYo-146" value="fa4907be-236b-4594-adac-be6d0d0381d5" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="LXiYEPwb5xeW1DS-eFYo-133">
+          <mxGeometry x="132" y="40" width="288" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LXiYEPwb5xeW1DS-eFYo-150" value="Salvar em nova Versão" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#33A64C;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="LXiYEPwb5xeW1DS-eFYo-133">
+          <mxGeometry x="432" y="30" width="128" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LXiYEPwb5xeW1DS-eFYo-149" value="Selecionar Versão" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="LXiYEPwb5xeW1DS-eFYo-133">
+          <mxGeometry x="572" y="30" width="128" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
