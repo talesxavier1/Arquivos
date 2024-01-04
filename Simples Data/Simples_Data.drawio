@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-04T17:34:07.456Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="SDIad-giITuSWo0Zn4Nt" version="22.1.16" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-01-04T17:37:05.984Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="wv-cMPZYlaUxauSMqOep" version="22.1.16" type="github" pages="4">
   <diagram name="Página Principal" id="_innlUNYkD_pxCBl8Joa">
     <mxGraphModel dx="2241" dy="697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1711,7 +1711,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ccGitupk2iQN9C5Xdvb7-20" value="Assets" style="childLayout=tableLayout;recursiveResize=0;strokeColor=#98bf21;fillColor=#A7C942;shadow=1;fontSize=17;collapsible=1;" parent="1" vertex="1">
-          <mxGeometry x="2190" y="578.19" width="139" height="318" as="geometry" />
+          <mxGeometry x="2220" y="578.19" width="139" height="318" as="geometry" />
         </mxCell>
         <mxCell id="ccGitupk2iQN9C5Xdvb7-21" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;fontSize=17;" parent="ccGitupk2iQN9C5Xdvb7-20" vertex="1">
           <mxGeometry width="139" height="42" as="geometry" />
