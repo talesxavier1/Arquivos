@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-04T02:02:43.440Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ZLAUVwEh8jOT6K4oIWf3" version="22.1.16" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-01-04T02:03:49.789Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="BU2gfjcsCfoK8GwJ0rub" version="22.1.16" type="github" pages="4">
   <diagram name="Página Principal" id="_innlUNYkD_pxCBl8Joa">
     <mxGraphModel dx="2566" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1112,7 +1112,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wGiQzKMfD1Lbq0UkQUWq" name="Schemas">
-    <mxGraphModel dx="2668" dy="697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2428" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1663,7 +1663,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DY4nSZvlYZ8lREkkZeDi-34" value="&amp;lt;/&amp;gt;" style="rounded=1;arcSize=5;fillColor=#0065FF;strokeColor=none;fontColor=#ffffff;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=10;fontStyle=1;html=1;sketch=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="LXiYEPwb5xeW1DS-eFYo-39">
-          <mxGeometry x="1" y="303.75" width="317" height="22.5" as="geometry" />
+          <mxGeometry x="11.5" y="272.5" width="317" height="22.5" as="geometry" />
         </mxCell>
         <mxCell id="DY4nSZvlYZ8lREkkZeDi-31" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=0;perimeter=none;whiteSpace=wrap;fillColor=#F0F1F2;strokeColor=none;fontColor=#212529;resizeWidth=1;fontSize=18;align=left;spacing=20;container=1;collapsible=0;recursiveResize=0;opacity=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="LXiYEPwb5xeW1DS-eFYo-39">
           <mxGeometry x="14.11999999999989" y="207.5" width="70" height="58" as="geometry" />
