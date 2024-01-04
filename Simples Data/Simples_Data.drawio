@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-04T01:42:49.373Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="MDpo1pfSF7sqwPHEOc01" version="22.1.16" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-01-04T01:43:08.970Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="-jv2rCej7zsyXi0iT8Ps" version="22.1.16" type="github" pages="4">
   <diagram name="Página Principal" id="_innlUNYkD_pxCBl8Joa">
     <mxGraphModel dx="2566" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1112,7 +1112,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wGiQzKMfD1Lbq0UkQUWq" name="Schemas">
-    <mxGraphModel dx="2142" dy="498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2668" dy="697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1649,7 +1649,7 @@
           <mxGeometry x="0.000769230769229523" width="230.15384615384613" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LXiYEPwb5xeW1DS-eFYo-176" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=0;perimeter=none;whiteSpace=wrap;fillColor=#F0F1F2;strokeColor=none;fontColor=#212529;resizeWidth=1;fontSize=18;align=left;spacing=20;container=1;collapsible=0;recursiveResize=0;opacity=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="LXiYEPwb5xeW1DS-eFYo-39" vertex="1">
-          <mxGeometry x="13" y="147.5" width="314" height="58.190000000000055" as="geometry" />
+          <mxGeometry x="13" y="141.5" width="314" height="58.190000000000055" as="geometry" />
         </mxCell>
         <mxCell id="LXiYEPwb5xeW1DS-eFYo-179" value="Tipo" style="fillColor=none;strokeColor=none;align=left;fontSize=14;fontColor=#212529;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="LXiYEPwb5xeW1DS-eFYo-176" vertex="1">
           <mxGeometry width="314" height="26" as="geometry" />
