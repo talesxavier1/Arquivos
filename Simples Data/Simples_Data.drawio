@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-06T23:22:10.233Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="bylgSAsC-LP5uKyvgWet" version="22.1.17" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-01-06T23:25:22.375Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="U3THzJ2nnqfEakgKTynp" version="22.1.17" type="github" pages="4">
   <diagram name="Página Principal" id="_innlUNYkD_pxCBl8Joa">
     <mxGraphModel dx="1659" dy="697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1677,6 +1677,9 @@
         <mxCell id="ccGitupk2iQN9C5Xdvb7-87" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.switch;strokeColor=#ADB6BD;strokeWidth=1;fillColor=#ffffff;fontColor=#212529;onStrokeColor=#ffffff;onFillColor=#0085FC;align=left;verticalAlign=middle;spacingLeft=10;labelPosition=right;verticalLabelPosition=middle;buttonState=0;sketch=0;fontSize=16;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="ccGitupk2iQN9C5Xdvb7-85" vertex="1">
           <mxGeometry x="-9.103828801926284e-14" y="32" width="30" height="17.5" as="geometry" />
         </mxCell>
+        <mxCell id="9bgidu20kglb8qfk7ZFP-1" value="&amp;lt;/&amp;gt;" style="rounded=1;arcSize=5;fillColor=#0065FF;strokeColor=none;fontColor=#ffffff;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=10;fontStyle=1;html=1;sketch=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="LXiYEPwb5xeW1DS-eFYo-39">
+          <mxGeometry x="11.5" y="303.75" width="317" height="22.5" as="geometry" />
+        </mxCell>
         <mxCell id="LXiYEPwb5xeW1DS-eFYo-133" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#F0F1F2;strokeColor=#D2D3D4;fontColor=#212529;resizeWidth=1;fontSize=18;align=left;spacing=20;container=1;collapsible=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="LXiYEPwb5xeW1DS-eFYo-20" vertex="1">
           <mxGeometry x="8" y="6.5" width="782" height="80" as="geometry" />
         </mxCell>
@@ -1836,7 +1839,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="E4UaQNasGrUwgiGYuXev-1" value="&lt;h1&gt;Idéias&lt;/h1&gt;&lt;p&gt;* Expressão regular:&lt;br&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;Quando o tipo for string habilitar um&amp;nbsp; campo para adicionar a expressão regular&amp;nbsp;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;https://json-schema.org/understanding-json-schema/reference/regular_expressions&lt;/p&gt;&lt;p&gt;* Múltiplos&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Quando o tipo for número habilitar a funcionalidade de definir os múltiplos.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;* Range&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Quando o tipo for número, habilitar quatro campos.&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Campo 1: define entre &amp;gt; ou &amp;gt;=&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Campo 2: Define o valor para maior.&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Campo 3: Define entre &amp;lt; ou &amp;lt;=.&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Campo 4: Define o valor para menor.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="2660" y="1478" width="530" height="290" as="geometry" />
+          <mxGeometry x="3130" y="1540" width="530" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="9bgidu20kglb8qfk7ZFP-2" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#F0F1F2;strokeColor=#D2D3D4;fontColor=#212529;resizeWidth=1;fontSize=18;align=left;spacing=20;container=1;collapsible=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;recursiveResize=0;" vertex="1" parent="1">
+          <mxGeometry x="2460" y="1440" width="340" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="9bgidu20kglb8qfk7ZFP-18" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=0;perimeter=none;whiteSpace=wrap;fillColor=#F0F1F2;strokeColor=none;fontColor=#212529;resizeWidth=1;fontSize=18;align=left;spacing=20;container=1;collapsible=0;recursiveResize=0;opacity=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="9bgidu20kglb8qfk7ZFP-2">
+          <mxGeometry x="13.090000000000218" y="15" width="325.83" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="9bgidu20kglb8qfk7ZFP-19" value="Expressão" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="9bgidu20kglb8qfk7ZFP-18">
+          <mxGeometry x="130" y="21.75" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9bgidu20kglb8qfk7ZFP-20" value="Expressão regular" style="fillColor=none;strokeColor=none;align=left;fontSize=14;fontColor=#212529;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="9bgidu20kglb8qfk7ZFP-18">
+          <mxGeometry width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9bgidu20kglb8qfk7ZFP-21" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.switch;strokeColor=#ADB6BD;strokeWidth=1;fillColor=#ffffff;fontColor=#212529;onStrokeColor=#ffffff;onFillColor=#0085FC;align=left;verticalAlign=middle;spacingLeft=10;labelPosition=right;verticalLabelPosition=middle;buttonState=0;sketch=0;fontSize=16;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="9bgidu20kglb8qfk7ZFP-18">
+          <mxGeometry y="34.25" width="21.25" height="17.5" as="geometry" />
+        </mxCell>
+        <mxCell id="9bgidu20kglb8qfk7ZFP-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.003;entryY=0.566;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9bgidu20kglb8qfk7ZFP-1" target="9bgidu20kglb8qfk7ZFP-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
