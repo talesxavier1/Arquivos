@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-06T23:28:27.208Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ZlfhhloB5QWEA4pNwC_G" version="22.1.17" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-01-06T23:31:21.627Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="97xfuIgl_D7Zr-MDlMff" version="22.1.17" type="github" pages="4">
   <diagram name="Página Principal" id="_innlUNYkD_pxCBl8Joa">
     <mxGraphModel dx="1659" dy="697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1771,8 +1771,10 @@
             <mxRectangle width="139" height="39" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ccGitupk2iQN9C5Xdvb7-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LXiYEPwb5xeW1DS-eFYo-177" target="ccGitupk2iQN9C5Xdvb7-21" edge="1">
+        <mxCell id="ccGitupk2iQN9C5Xdvb7-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2076.8492307692313" y="1267.2" as="sourcePoint" />
+            <mxPoint x="2050" y="546" as="targetPoint" />
             <Array as="points">
               <mxPoint x="2110" y="1267" />
               <mxPoint x="2110" y="860" />
@@ -1828,12 +1830,6 @@
         <mxCell id="ccGitupk2iQN9C5Xdvb7-74" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.switch;strokeColor=#ADB6BD;strokeWidth=1;fillColor=#ffffff;fontColor=#212529;onStrokeColor=#ffffff;onFillColor=#0085FC;align=left;verticalAlign=middle;spacingLeft=10;labelPosition=right;verticalLabelPosition=middle;buttonState=0;sketch=0;fontSize=16;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="ccGitupk2iQN9C5Xdvb7-72" vertex="1">
           <mxGeometry y="32" width="30" height="17.5" as="geometry" />
         </mxCell>
-        <mxCell id="ccGitupk2iQN9C5Xdvb7-69" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=0;perimeter=none;whiteSpace=wrap;fillColor=#F0F1F2;strokeColor=none;fontColor=#212529;resizeWidth=1;fontSize=18;align=left;spacing=20;container=1;collapsible=0;recursiveResize=0;opacity=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="2580.003333333333" y="830" width="63.75" height="58" as="geometry" />
-        </mxCell>
-        <mxCell id="ccGitupk2iQN9C5Xdvb7-65" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=0;perimeter=none;whiteSpace=wrap;fillColor=#F0F1F2;strokeColor=none;fontColor=#212529;resizeWidth=1;fontSize=18;align=left;spacing=20;container=1;collapsible=0;recursiveResize=0;opacity=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
-          <mxGeometry x="2380" y="826" width="120.00000000000023" height="58" as="geometry" />
-        </mxCell>
         <mxCell id="ccGitupk2iQN9C5Xdvb7-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.003;entryY=0.331;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="DY4nSZvlYZ8lREkkZeDi-34" target="ccGitupk2iQN9C5Xdvb7-46" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -1850,8 +1846,23 @@
         <mxCell id="E4UaQNasGrUwgiGYuXev-1" value="&lt;h1&gt;Idéias&lt;/h1&gt;&lt;p&gt;* Expressão regular:&lt;br&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;Quando o tipo for string habilitar um&amp;nbsp; campo para adicionar a expressão regular&amp;nbsp;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;https://json-schema.org/understanding-json-schema/reference/regular_expressions&lt;/p&gt;&lt;p&gt;* Múltiplos&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Quando o tipo for número habilitar a funcionalidade de definir os múltiplos.&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;* Range&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Quando o tipo for número, habilitar quatro campos.&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Campo 1: define entre &amp;gt; ou &amp;gt;=&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Campo 2: Define o valor para maior.&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Campo 3: Define entre &amp;lt; ou &amp;lt;=.&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Campo 4: Define o valor para menor.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="3130" y="1540" width="530" height="290" as="geometry" />
         </mxCell>
+        <mxCell id="9bgidu20kglb8qfk7ZFP-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.005;entryY=0.444;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2075.5" y="1400" as="sourcePoint" />
+            <mxPoint x="2308.6966666666667" y="849.96" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2267" y="1400" />
+              <mxPoint x="2267" y="850" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9bgidu20kglb8qfk7ZFP-28" value="Só será visível quando &lt;br style=&quot;font-size: 13px;&quot;&gt;o tipo for igual à string" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" vertex="1" connectable="0" parent="9bgidu20kglb8qfk7ZFP-17">
+          <mxGeometry x="0.3676" y="4" relative="1" as="geometry">
+            <mxPoint x="14" y="34" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="9bgidu20kglb8qfk7ZFP-2" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#F0F1F2;strokeColor=#D2D3D4;fontColor=#212529;resizeWidth=1;fontSize=18;align=left;spacing=20;container=1;collapsible=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;recursiveResize=0;" vertex="1" parent="1">
-          <mxGeometry x="2290" y="804" width="340" height="90" as="geometry" />
+          <mxGeometry x="2309.996666666667" y="810" width="340" height="90" as="geometry" />
         </mxCell>
         <mxCell id="9bgidu20kglb8qfk7ZFP-18" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=0;perimeter=none;whiteSpace=wrap;fillColor=#F0F1F2;strokeColor=none;fontColor=#212529;resizeWidth=1;fontSize=18;align=left;spacing=20;container=1;collapsible=0;recursiveResize=0;opacity=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="9bgidu20kglb8qfk7ZFP-2">
           <mxGeometry x="13.090000000000218" y="15" width="325.83" height="58" as="geometry" />
@@ -1864,14 +1875,6 @@
         </mxCell>
         <mxCell id="9bgidu20kglb8qfk7ZFP-21" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.switch;strokeColor=#ADB6BD;strokeWidth=1;fillColor=#ffffff;fontColor=#212529;onStrokeColor=#ffffff;onFillColor=#0085FC;align=left;verticalAlign=middle;spacingLeft=10;labelPosition=right;verticalLabelPosition=middle;buttonState=0;sketch=0;fontSize=16;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="9bgidu20kglb8qfk7ZFP-18">
           <mxGeometry y="34.25" width="21.25" height="17.5" as="geometry" />
-        </mxCell>
-        <mxCell id="9bgidu20kglb8qfk7ZFP-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.003;entryY=0.566;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9bgidu20kglb8qfk7ZFP-1" target="9bgidu20kglb8qfk7ZFP-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2270" y="1400" />
-              <mxPoint x="2270" y="855" />
-            </Array>
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
