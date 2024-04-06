@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-06T19:33:06.661Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="mFR8qBYOBqbPT4tEyXR-" version="22.1.18" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-04-06T19:33:13.525Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="lTRwTl6amrF4WbOLTxA1" version="22.1.18" type="github" pages="4">
   <diagram name="Página Principal" id="_innlUNYkD_pxCBl8Joa">
     <mxGraphModel dx="2241" dy="697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1112,7 +1112,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wGiQzKMfD1Lbq0UkQUWq" name="Schemas">
-    <mxGraphModel dx="1441" dy="232" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3457" dy="996" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1794,7 +1794,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9bgidu20kglb8qfk7ZFP-2" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#F0F1F2;strokeColor=#D2D3D4;fontColor=#212529;resizeWidth=1;fontSize=18;align=left;spacing=20;container=1;collapsible=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;recursiveResize=0;" parent="1" vertex="1">
-          <mxGeometry x="2590" y="525" width="340" height="335" as="geometry" />
+          <mxGeometry x="2590" y="525" width="340" height="285" as="geometry" />
         </mxCell>
         <mxCell id="9bgidu20kglb8qfk7ZFP-18" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=0;perimeter=none;whiteSpace=wrap;fillColor=#F0F1F2;strokeColor=none;fontColor=#212529;resizeWidth=1;fontSize=18;align=left;spacing=20;container=1;collapsible=0;recursiveResize=0;opacity=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="9bgidu20kglb8qfk7ZFP-2" vertex="1">
           <mxGeometry x="7.260000000000218" y="15" width="325.83" height="58" as="geometry" />
