@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-06T19:52:57.055Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="eZgFDC8891i-iXQtXkTV" version="22.1.18" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-04-06T19:54:06.899Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="QEB0mwP5ARKBMMslWgV-" version="22.1.18" type="github" pages="4">
   <diagram name="Página Principal" id="_innlUNYkD_pxCBl8Joa">
     <mxGraphModel dx="2241" dy="697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1112,7 +1112,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wGiQzKMfD1Lbq0UkQUWq" name="Schemas">
-    <mxGraphModel dx="2993" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1033" dy="78" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1926,7 +1926,7 @@
         </mxCell>
         <mxCell id="9bgidu20kglb8qfk7ZFP-128" value="Só será visível quando tipo&lt;br style=&quot;font-size: 13px;&quot;&gt;for igual a Number ou Integer" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" parent="9bgidu20kglb8qfk7ZFP-127" vertex="1" connectable="0">
           <mxGeometry x="-0.2522" y="2" relative="1" as="geometry">
-            <mxPoint x="26" y="2" as="offset" />
+            <mxPoint x="-153" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9bgidu20kglb8qfk7ZFP-184" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#F0F1F2;strokeColor=#D2D3D4;fontColor=#212529;resizeWidth=1;fontSize=18;align=left;spacing=20;container=1;collapsible=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;recursiveResize=0;" parent="1" vertex="1">
@@ -1990,17 +1990,18 @@
             <mxPoint y="70" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9bgidu20kglb8qfk7ZFP-269" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.01;entryY=0.417;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="9bgidu20kglb8qfk7ZFP-183" target="9bgidu20kglb8qfk7ZFP-184" edge="1">
+        <mxCell id="9bgidu20kglb8qfk7ZFP-269" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.01;entryY=0.417;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.998;exitY=0.587;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="9bgidu20kglb8qfk7ZFP-183" target="9bgidu20kglb8qfk7ZFP-184" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2570" y="1542" />
+              <mxPoint x="2570" y="1520" />
               <mxPoint x="2570" y="1293" />
             </Array>
+            <mxPoint x="2080" y="1520" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9bgidu20kglb8qfk7ZFP-270" value="Só será visível quando o tipo&lt;br style=&quot;font-size: 13px;&quot;&gt;for igual a &lt;br style=&quot;font-size: 13px;&quot;&gt;enum, string, number, integer" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;" parent="9bgidu20kglb8qfk7ZFP-269" vertex="1" connectable="0">
           <mxGeometry x="-0.1712" y="4" relative="1" as="geometry">
-            <mxPoint x="-173" y="4" as="offset" />
+            <mxPoint x="93" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kkQ3BRtW2oWaOO6ko30R-11" value="" style="dashed=0;align=center;fontSize=12;shape=rect;strokeColor=#D2D3D4;fillColor=#eeeeee;resizeWidth=1;fontSize=14;verticalAlign=middle;align=left;spacingLeft=72;html=1;whiteSpace=wrap;direction=west;rounded=1;fillStyle=auto;gradientDirection=east;container=1;collapsible=0;recursiveResize=0;arcSize=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
