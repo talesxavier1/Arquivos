@@ -1,0 +1,59 @@
+#Roda a imgegem apine com privilégio
+#docker run --privileged -it --name meu10 alpine
+
+#salva a imagem locamente
+#docker save -o C:\Users\tales\OneDrive\Documentos\C_Sharp\DockerImagesSave\setupAlpine20240831_1833.tar imagem02
+
+apk update
+apk add busybox shadow
+
+mkdir -p /var/chroot/jail/
+mkdir -p /var/chroot/jail/bin/
+mkdir -p /var/chroot/jail/home/
+mkdir -p /var/chroot/jail/lib/
+mkdir -p /var/chroot/jail/lib64/
+mkdir -p /var/chroot/jail/dev/
+mkdir -p /var/chroot/jail/etc/
+mkdir -p /var/chroot/jail/proc/
+mkdir -p /var/chroot/jail/home/chrootUser
+
+chown chrootUser:chrootGroup /var/chroot/jail/home/chrootUser
+
+cp /bin/busybox /var/chroot/jail/bin/
+cp -r /lib/ld-musl-* /var/chroot/jail/lib/
+cp -r /lib/libc.musl-* /var/chroot/jail/lib/
+
+mknod -m 666 /var/chroot/jail/dev/null c 1 3
+mknod -m 666 /var/chroot/jail/dev/zero c 1 5
+
+cd /var/chroot/jail/bin/
+ln -s busybox ls
+ln -s busybox sh
+ln -s busybox cp
+ln -s busybox mv
+ln -s busybox vi
+ln -s busybox mkdir
+
+addgroup chrootGroup && \adduser -G chrootGroup -s /bin/sh -D chrootUser && \echo -e "root\nroot" | passwd chrootUser
+
+echo "chrootUser:x:1000:1000:My User,,,:/home/chrootUser:/bin/sh" > /var/chroot/jail/etc/passwd
+echo "chrootGroup:x:1000:" > /var/chroot/jail/etc/group
+
+apk add openjdk11-jdk openjdk8-jdk unzip
+
+wget https://groovy.jfrog.io/artifactory/dist-release-local/groovy-zips/apache-groovy-binary-4.0.21.zip
+unzip apache-groovy-binary-4.0.21.zip
+rm apache-groovy-binary-4.0.21.zip
+mv groovy-4.0.21 /opt/groovy-4.0.21
+ln -s /opt/groovy-4.0.21/bin/groovy /bin/groovy4021
+
+cat > ~/.ashrc <<EOL
+alias chrootRun='chroot /var/chroot/jail /bin/busybox sh'
+EOL
+
+#chroot /var/chroot/jail /bin/busybox sh
+
+
+
+
+

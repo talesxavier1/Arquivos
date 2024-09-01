@@ -1,0 +1,7 @@
+#Windows PowerShell
+docker pull alpine:3.20.2
+$pathLocalSHFile = "C:\Users\tales\OneDrive\Documentos\C_Sharp\talesxavier1\Arquivos\TypeScriptEditor\SetupAlpine\"
+$pathAlpineSHFile = "/home/"
+$containerName = "container002"
+docker run --privileged -it --name "${containerName}" -v "${pathLocalSHFile}:${pathAlpineSHFile}" alpine
+#
