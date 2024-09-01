@@ -1,0 +1,17 @@
+#Roda a imgegem apine com privilégio
+#docker run --privileged -it --name meu10 -v alpine 
+
+#salva a imagem locamente
+#docker save -o C:\Users\tales\OneDrive\Documentos\C_Sharp\DockerImagesSave\setupAlpine20240831_1833.tar imagem02
+
+$pathLocalSHFile = "C:\Users\tales\OneDrive\Documentos\C_Sharp\talesxavier1\Arquivos\TypeScriptEditor\SetupAlpine\"
+$pathAlpineSHFile = "/home/"
+docker run --privileged -it --name meu30 -v "${pathLocalSHFile}:${pathAlpineSHFile}" alpine 
+
+
+
+
+
+
+
+
