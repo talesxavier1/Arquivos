@@ -1,0 +1,115 @@
+# For more information on configuration, see:
+#   * Official English Documentation: http://nginx.org/en/docs/
+#   * Official Russian Documentation: http://nginx.org/ru/docs/
+
+user teste001;
+worker_processes auto;
+error_log /var/log/nginx/error.log;
+pid /run/nginx.pid;
+
+# Load dynamic modules. See /usr/share/doc/nginx/README.dynamic.
+include /usr/share/nginx/modules/*.conf;
+load_module /usr/lib64/nginx/modules/ngx_stream_module.so;
+
+events {
+    worker_connections 1024;
+
+}
+
+stream {
+    upstream redis_backend {
+        server 127.0.0.1:6380;
+    }
+
+     server {
+        listen 6379 ssl;
+        proxy_pass redis_backend;
+
+	ssl_certificate      /etc/ssl/lw001tallesandrade/certificate_fim.crt; 
+	ssl_certificate_key  /etc/ssl/lw001tallesandrade/private.key;
+
+        proxy_timeout 10s;
+        proxy_connect_timeout 1s;
+    }
+}
+
+http {
+	log_format  main  '$remote_addr - $remote_user [$time_local] "$request" '
+			  '$status $body_bytes_sent "$http_referer" '
+                          '"$http_user_agent" "$http_x_forwarded_for"';
+
+	access_log  /var/log/nginx/access.log  main;
+
+	sendfile            on;
+	tcp_nopush          on;
+	tcp_nodelay         on;
+	keepalive_timeout   65;
+	types_hash_max_size 2048;
+
+	include             /etc/nginx/mime.types;
+	default_type        application/octet-stream;
+	include /etc/nginx/conf.d/*.conf;
+
+	server {
+		listen  443 ssl;
+		listen  80 default_server;
+		root    /usr/share/nginx/lw001tallesandrade;
+
+		ssl_certificate      /etc/ssl/lw001tallesandrade/certificate_fim.crt; 
+		ssl_certificate_key  /etc/ssl/lw001tallesandrade/private.key;
+	    
+		server_name    lw001tallesandrade.ddns.net;
+
+		error_page 404 403 500 502 503 504 /html/ERROR.html;
+		location = /html/ERROR.html {}
+		
+		location /.well-known/pki-validation/ {
+			try_files $uri /SLL/25E52FD47A40B4BCF74D1DD5454D6CB1.txt;
+		}
+        }
+	
+	
+	server {
+		listen  443 ssl;
+		listen  80;
+
+		server_name    lw001tallespages.ddns.net;
+        	root    /home;
+
+		ssl_certificate      /etc/ssl/lw001tallespages/certificate_fim.crt; 
+		ssl_certificate_key  /etc/ssl/lw001tallespages/private.key;
+		
+    		location /typescripteditor/dev/ {
+			proxy_pass http://localhost:2000/;
+			proxy_buffering off;	
+	
+			#alias /home/github-typescripteditor/dev/dist;
+        		#index index.html;
+        		#try_files $uri $uri/ /index.html;
+    		}
+
+    		location /typescripteditor/prod/ {
+			proxy_pass http://localhost:2001/;
+			proxy_buffering off;
+
+			#alias /home/github-typescripteditor/prod/dist;
+        		#index index.html;
+        		#try_files $uri $uri/ /index.html;
+    		}
+
+		location /.well-known {
+			return 200 ER1Busap1Hb_5Ad4PwgDh8RjjW1CEjOqH_nVFeWtrEo.9dabLbvf6SJeWU7Ph1dVvs0piLIhlKfTc7YVXgUX5RA;
+		}
+	#       Para verificar o sll é só substituir o retorno pela string fornecida no site.
+
+        	error_page 404 400 500 502 503 504 /HTML-ERRO/ERROR.html;
+        	location = /HTML-ERRO/50x.html {}
+	}
+	
+	
+   server {
+           listen       80;
+           server_name  lw001tallesapis.ddns.net;
+    }
+}
+
