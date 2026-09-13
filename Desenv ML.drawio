@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Página-1" id="WCg2f4xjIq0HA8IxWnYZ">
-    <mxGraphModel dx="2745" dy="1196" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2197" dy="854" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -160,8 +160,32 @@
         <mxCell id="NNMYZkSaUW-cTgtA1o5L-32" edge="1" parent="1" source="0xNtqFOeua-XJ-61Yd2C-51" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;startSize=11;endSize=18;curved=0;strokeColor=light-dark(#000000,#000000);" target="NNMYZkSaUW-cTgtA1o5L-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NNMYZkSaUW-cTgtA1o5L-34" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/flat-color-icons/1/OK.svg" value="" vertex="1">
-          <mxGeometry height="48" width="48" x="410" y="2030" as="geometry" />
+        <mxCell id="NNMYZkSaUW-cTgtA1o5L-40" parent="1" style="rounded=1;arcSize=5;fillColor=#0065FF;strokeColor=none;fontColor=#ffffff;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=14;fontStyle=1;html=1;sketch=0;container=1;recursiveResize=0;" value="&amp;lt;/&amp;gt;" vertex="1">
+          <mxGeometry height="460" width="1180" x="520" y="1785" as="geometry" />
+        </mxCell>
+        <mxCell id="NNMYZkSaUW-cTgtA1o5L-35" parent="NNMYZkSaUW-cTgtA1o5L-40" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;strokeColor=none;shape=rect;fillColor=light-dark(#33b5e5, #ffffff);container=1;recursiveResize=0;" value="" vertex="1">
+          <mxGeometry height="310" width="380" x="30" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NNMYZkSaUW-cTgtA1o5L-38" parent="NNMYZkSaUW-cTgtA1o5L-35" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=35;fontColor=light-dark(#000000,#000000);" value="Finalizado" vertex="1">
+          <mxGeometry height="80" width="140" x="120" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NNMYZkSaUW-cTgtA1o5L-34" parent="NNMYZkSaUW-cTgtA1o5L-35" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/flat-color-icons/1/OK.svg" value="" vertex="1">
+          <mxGeometry height="48" width="48" x="166" y="116" as="geometry" />
+        </mxCell>
+        <mxCell id="NNMYZkSaUW-cTgtA1o5L-39" parent="NNMYZkSaUW-cTgtA1o5L-35" style="dashed=0;html=1;rounded=1;strokeColor=#008364;fontSize=12;align=center;fontStyle=1;strokeWidth=2;fontColor=#008364" value="OK" vertex="1">
+          <mxGeometry height="20" width="70" x="155" y="236" as="geometry" />
+        </mxCell>
+        <mxCell id="NNMYZkSaUW-cTgtA1o5L-41" parent="NNMYZkSaUW-cTgtA1o5L-40" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;strokeColor=none;shape=rect;fillColor=light-dark(#33b5e5, #ffffff);container=1;recursiveResize=0;" value="" vertex="1">
+          <mxGeometry height="310" width="380" x="700" y="85" as="geometry" />
+        </mxCell>
+        <mxCell id="NNMYZkSaUW-cTgtA1o5L-42" parent="NNMYZkSaUW-cTgtA1o5L-41" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=35;fontColor=light-dark(#000000,#000000);" value="Erro" vertex="1">
+          <mxGeometry height="80" width="140" x="120" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NNMYZkSaUW-cTgtA1o5L-44" parent="NNMYZkSaUW-cTgtA1o5L-41" style="dashed=0;html=1;rounded=1;strokeColor=#008364;fontSize=12;align=center;fontStyle=1;strokeWidth=2;fontColor=#008364" value="OK" vertex="1">
+          <mxGeometry height="20" width="70" x="155" y="236" as="geometry" />
+        </mxCell>
+        <mxCell id="NNMYZkSaUW-cTgtA1o5L-45" parent="NNMYZkSaUW-cTgtA1o5L-41" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Blueberry-2815/delete-1482.png" value="" vertex="1">
+          <mxGeometry height="32" width="32" x="280" y="164" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
