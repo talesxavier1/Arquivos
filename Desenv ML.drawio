@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Página-1" id="WCg2f4xjIq0HA8IxWnYZ">
-    <mxGraphModel dx="3027" dy="1495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4663" dy="2392" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -48,9 +48,6 @@
         </mxCell>
         <mxCell id="0xNtqFOeua-XJ-61Yd2C-50" parent="1" style="rounded=1;arcSize=5;fillColor=light-dark(#0065FF, #ffffff);strokeColor=none;fontColor=#ffffff;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=12;fontStyle=1;html=1;sketch=0;fontFamily=Helvetica;labelBackgroundColor=default;resizable=1;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
           <mxGeometry height="610" width="1485" x="1610" y="890" as="geometry" />
-        </mxCell>
-        <mxCell id="0xNtqFOeua-XJ-61Yd2C-53" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Unicons_Line_vol_3-2965/grid-1449.svg;strokeColor=default;align=center;fontFamily=Helvetica;fontSize=12;fontColor=default;resizable=1;fillColor=default;" value="" vertex="1">
-          <mxGeometry height="450" width="450" x="1860" y="1020" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
