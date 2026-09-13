@@ -307,6 +307,9 @@
             <mxPoint x="8" y="-7.5" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="J5NW6nJbW_hvGrBQ84Zm-63" parent="1" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.navigation.scrollBar;strokeColor=#999999;barPos=20;fillColor2=#99ddff;strokeColor2=none;direction=north;" value="" vertex="1">
+          <mxGeometry height="200" width="20" x="2420" y="1214" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
