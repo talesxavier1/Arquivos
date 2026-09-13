@@ -205,6 +205,9 @@
         <mxCell id="J5NW6nJbW_hvGrBQ84Zm-6" parent="J5NW6nJbW_hvGrBQ84Zm-1" style="text;strokeColor=#DFDFDF;fillColor=#FFFFFF;align=left;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shape=mxgraph.bootstrap.bottomButton;rSize=5;fontColor=#000000;" value="Vestibulum at eros" vertex="1">
           <mxGeometry height="30" width="200" y="120" as="geometry" />
         </mxCell>
+        <mxCell id="J5NW6nJbW_hvGrBQ84Zm-7" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;strokeColor=none;shape=rect;fillColor=#33b5e5;" value="" vertex="1">
+          <mxGeometry height="290" width="210" x="2190" y="1150" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
