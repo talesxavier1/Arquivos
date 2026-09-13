@@ -145,9 +145,6 @@
         <mxCell id="NNMYZkSaUW-cTgtA1o5L-26" edge="1" parent="1" source="0xNtqFOeua-XJ-61Yd2C-43" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;startSize=11;endSize=18;curved=0;strokeColor=light-dark(#000000,#000000);" target="0xNtqFOeua-XJ-61Yd2C-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NNMYZkSaUW-cTgtA1o5L-27" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Tools-2895/loader-1136.svg" value="" vertex="1">
-          <mxGeometry height="24" width="24" x="480" y="1810" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
