@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Página-1" id="WCg2f4xjIq0HA8IxWnYZ">
-    <mxGraphModel dx="1147" dy="199" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1786" dy="598" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -46,7 +46,7 @@
         <mxCell id="0xNtqFOeua-XJ-61Yd2C-51" parent="0xNtqFOeua-XJ-61Yd2C-37" style="dashed=0;html=1;rounded=1;fillColor=#008364;strokeColor=#008364;fontSize=12;align=center;fontStyle=1;strokeWidth=2;fontColor=#FFFFFF;verticalAlign=top;fontFamily=Helvetica;labelBackgroundColor=none;resizable=0;movable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" value="Gerar Novo" vertex="1">
           <mxGeometry height="30" width="100" x="360" y="90" as="geometry" />
         </mxCell>
-        <mxCell id="0xNtqFOeua-XJ-61Yd2C-50" parent="1" style="rounded=1;arcSize=5;fillColor=light-dark(#0065FF, #ffffff);strokeColor=none;fontColor=#ffffff;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=12;fontStyle=1;html=1;sketch=0;fontFamily=Helvetica;labelBackgroundColor=default;resizable=1;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
+        <mxCell id="0xNtqFOeua-XJ-61Yd2C-50" parent="1" style="rounded=1;arcSize=5;fillColor=light-dark(#0065FF, #ffffff);strokeColor=none;fontColor=#ffffff;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=12;fontStyle=1;html=1;sketch=0;fontFamily=Helvetica;labelBackgroundColor=default;resizable=1;movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;imageBackground=light-dark(transparent,#33001A);" value="" vertex="1">
           <mxGeometry height="610" width="1485" x="1610" y="890" as="geometry" />
         </mxCell>
         <mxCell id="we4ljl_6W4Z2HIZw9u8y-1" parent="1" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;strokeColor=#888888;fillColor=#444444;" value="" vertex="1">
@@ -64,11 +64,10 @@
         <mxCell id="we4ljl_6W4Z2HIZw9u8y-5" parent="we4ljl_6W4Z2HIZw9u8y-1" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;align=left;spacingLeft=10;fontSize=8;fontColor=#ffffff;" value="data/hora&amp;nbsp;4" vertex="1">
           <mxGeometry height="27.25" width="185" y="81.75000000000001" as="geometry" />
         </mxCell>
-        <mxCell id="we4ljl_6W4Z2HIZw9u8y-7" parent="1" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=light-dark(#0080F0,#CC0066);shadow=0;dashed=0;shape=mxgraph.ios7.icons.trashcan;" value="" vertex="1">
-          <mxGeometry height="30" width="24" x="2166" y="1073" as="geometry" />
-        </mxCell>
-        <mxCell id="we4ljl_6W4Z2HIZw9u8y-8" edge="1" parent="1" source="we4ljl_6W4Z2HIZw9u8y-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="we4ljl_6W4Z2HIZw9u8y-7" value="">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="we4ljl_6W4Z2HIZw9u8y-8" edge="1" parent="1" source="we4ljl_6W4Z2HIZw9u8y-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2178" y="1103" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="we4ljl_6W4Z2HIZw9u8y-9" parent="1" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;strokeColor=#888888;fillColor=#444444;" value="" vertex="1">
           <mxGeometry height="109" width="185" x="2068" y="1169" as="geometry" />
@@ -126,6 +125,12 @@
         </mxCell>
         <mxCell id="we4ljl_6W4Z2HIZw9u8y-23" parent="we4ljl_6W4Z2HIZw9u8y-19" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;align=left;spacingLeft=10;fontSize=8;fontColor=#ffffff;" value="Menu Item 4" vertex="1">
           <mxGeometry height="27.25" width="185" y="81.75000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="NNMYZkSaUW-cTgtA1o5L-2" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/ecommerce_icon-2488/remove-712.svg;labelBackgroundColor=#f8cecc;labelBorderColor=#b85450;imageBorder=none;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="2310" y="1100" as="geometry" />
+        </mxCell>
+        <mxCell id="NNMYZkSaUW-cTgtA1o5L-3" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Material_Core-2642/delete-1104.svg;fontColor=none;noLabel=1;imageBackground=light-dark(#FFFFFF,#CCFFE6);" value="" vertex="1">
+          <mxGeometry height="18" width="14" x="2110" y="1082" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
